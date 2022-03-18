@@ -1,4 +1,4 @@
-module github.com/titaniumnetwork-dev/aero
+module github.com/VincentDahoonLee/aero
 
 go 1.17
 
